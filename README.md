@@ -149,9 +149,7 @@ xgboost
 
 ## Authors
 
-- Mahdere — HEC Lausanne Master Business Analytics
 - Mattia — HEC Lausanne Master Business Analytics
-- Edouard — HEC Lausanne Master Business Analytics
 
 ---
 
